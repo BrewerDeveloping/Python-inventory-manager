@@ -11,4 +11,4 @@ WIP = Work in progress
 3. C -- Create VideoStore class begin with __init__
 bring in csv function from inventory and customer
 
-4. WIP -- Create add rental and removal rental with logic.
+4. C -- Create add rental and removal rental with logic.
